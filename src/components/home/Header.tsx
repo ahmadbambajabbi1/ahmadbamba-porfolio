@@ -1,3 +1,5 @@
+import Button from "../custom/Button";
+
 const Header = () => {
   return (
     <div className="fixed z-50 w-full flex items-center justify-between px-7  py-3 bg-[#140b29]">
@@ -9,9 +11,7 @@ const Header = () => {
         <li>cv view</li>
       </ul>
       <div>
-        <button className="bg-[#705DF2] px-5 py-1 rounded-3xl shadow-xl">
-          Hire Me
-        </button>
+        <Button firstText="hire" Secondtext="me" />
       </div>
     </div>
   );

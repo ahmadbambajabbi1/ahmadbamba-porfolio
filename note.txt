@@ -1,0 +1,2 @@
+
+Image card from https://nextui.org/docs/components/image
