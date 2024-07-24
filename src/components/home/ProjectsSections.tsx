@@ -12,8 +12,7 @@ export default function Tabss() {
     {
       id: "sample codes",
       label: "sample codes",
-      content:
-        "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      content: <ProjectSection />,
     },
     {
       id: "videos",
@@ -23,16 +22,16 @@ export default function Tabss() {
   ];
 
   return (
-    <div className="flex w-full flex-col mt-10">
+    <div className="flex w-full flex-col mt-10 bg-none">
       <Tabs
-        className="shadow-none"
+        className="shadow-none bg-inherit"
         draggable={true}
         aria-label="Dynamic tabs"
         items={tabs}
       >
         {(item) => (
-          <Tab key={item.id} title={item.label}>
-            <Card className="shadow-none rounded-none">
+          <Tab className="bg-none" key={item.id} title={item.label}>
+            <Card className="shadow-none rounded-none bg-inherit">
               <CardBody>{item.content}</CardBody>
             </Card>
           </Tab>
