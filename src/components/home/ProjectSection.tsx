@@ -4,7 +4,7 @@ import { PROJECTSINTERFACE } from "../../interface/interface";
 
 const projects: PROJECTSINTERFACE[] = [
   {
-    imgSrc: "/public/image/1.jpg",
+    imgSrc: "/image/1.jpg",
     content:
       "thia  project was created for testing my knowledge on howto a a good website like,thia  project was created for testing my knowledge on howto a a good website like",
     tools: [
@@ -17,7 +17,7 @@ const projects: PROJECTSINTERFACE[] = [
     status: "completed",
   },
   {
-    imgSrc: "/public/image/2.jpg",
+    imgSrc: "/image/2.jpg",
     content:
       "thia  project was created for testing my knowledge on howto a a good website like,thia  project was created for testing my knowledge on howto a a good website like",
     tools: [
@@ -33,7 +33,7 @@ const projects: PROJECTSINTERFACE[] = [
     status: "completed",
   },
   {
-    imgSrc: "/public/image/3.jpg",
+    imgSrc: "/image/3.jpg",
     content:
       "thia  project was created for testing my knowledge on howto a a good website like,thia  project was created for testing my knowledge on howto a a good website like",
     tools: [
@@ -46,7 +46,7 @@ const projects: PROJECTSINTERFACE[] = [
     status: "completed",
   },
   {
-    imgSrc: "/public/image/ahmad-bg.jpg",
+    imgSrc: "/image/ahmad-bg.jpg",
     content:
       "thia  project was created for testing my knowledge on howto a a good website like,thia  project was created for testing my knowledge on howto a a good website like",
     tools: [
@@ -59,7 +59,7 @@ const projects: PROJECTSINTERFACE[] = [
     status: "completed",
   },
   {
-    imgSrc: "/public/image/3.jpg",
+    imgSrc: "/image/3.jpg",
     content:
       "thia  project was created for testing my knowledge on howto a a good website like,thia  project was created for testing my knowledge on howto a a good website like",
     tools: [
@@ -72,7 +72,7 @@ const projects: PROJECTSINTERFACE[] = [
     status: "completed",
   },
   {
-    imgSrc: "/public/image/2.jpg",
+    imgSrc: "/image/2.jpg",
     content:
       "thia  project was created for testing my knowledge on howto a a good website like,thia  project was created for testing my knowledge on howto a a good website like",
     tools: [
