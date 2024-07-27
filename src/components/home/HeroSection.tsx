@@ -23,32 +23,32 @@ const HeroSection = () => {
           <div className="flex items-center gap-4">
             <img
               className="w-6 h-6 text-white"
-              src="/icons/instagram.svg"
+              src="./public/icons/instagram.svg"
               alt="instagram"
             />
             <img
               className="w-6 h-6 text-white"
-              src="/icons/linkedin.svg"
+              src="./public/icons/linkedin.svg"
               alt="linkedIn"
             />
             <img
               className="w-6 h-6 text-white"
-              src="/icons/facebook.svg"
+              src="./public/icons/facebook.svg"
               alt="facebook"
             />
             <img
               className="w-6 h-6 text-white"
-              src="/icons/whatsapp.svg"
+              src="./public/icons/whatsapp.svg"
               alt="whatsApp"
             />
             <img
               className="w-6 h-6 text-white"
-              src="/icons/cv.svg"
+              src="./public/icons/cv.svg"
               alt="my cv"
             />
             <img
               className="w-6 h-6 text-white"
-              src="/icons/cv.svg"
+              src="./public/icons/cv.svg"
               alt="my cv"
             />
           </div>
@@ -57,7 +57,7 @@ const HeroSection = () => {
           <div className="flex items-center gap-4">
             <img
               className="w-6 h-6 text-white"
-              src="/icons/cv.svg"
+              src="./public/icons/cv.svg"
               alt="my cv"
             />
           </div>
@@ -70,7 +70,7 @@ const HeroSection = () => {
       <div className="w-3/5 h-4/5 absolute right-0  z-0">
         <img
           className="w-full h-full object-cover object-top"
-          src="/image/ahmad.png"
+          src="./public/image/ahmad.png"
           alt=""
         />
       </div>
