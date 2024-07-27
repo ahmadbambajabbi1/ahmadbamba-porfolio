@@ -1,5 +1,4 @@
-import React from "react";
-import { Tabs, Tab, Card, CardBody, CardHeader } from "@nextui-org/react";
+import { Tabs, Tab, Card, CardBody } from "@nextui-org/react";
 import ProjectSection from "./ProjectSection";
 
 export default function Tabss() {

@@ -1,4 +1,3 @@
-import React from "react";
 import ProjectCard from "./ProjectCard";
 import SmallTitile from "../constants/SmallTitile";
 import { PROJECTSINTERFACE } from "../../interface/interface";
