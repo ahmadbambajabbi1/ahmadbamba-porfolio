@@ -8,7 +8,7 @@ const AboutMe = () => {
         <div className="flex-1 w-ful h-full rounded-2xl overflow-hidden shadow-lg shadow-slate-950">
           <img
             className="w-full h-full object-cover object-top"
-            src="./public/image/ahmad-bg.jpg"
+            src="/image/ahmad-bg.jpg"
             alt=""
           />
         </div>

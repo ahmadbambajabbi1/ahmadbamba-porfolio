@@ -3,7 +3,7 @@ import Home from "./pages/Home";
 
 const App = () => {
   return (
-    <NextUIProvider className=" container bg-gradient-to-tr from-primaryColor via-slate-800 to-secondaryColor text-white">
+    <NextUIProvider className="container m-auto bg-gradient-to-tr from-primaryColor via-slate-800 to-secondaryColor text-white">
       <Home />
     </NextUIProvider>
   );

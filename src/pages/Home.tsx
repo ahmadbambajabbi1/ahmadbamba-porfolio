@@ -7,7 +7,7 @@ import ProjectSection from "../components/home/ProjectSection";
 
 const Home = () => {
   return (
-    <div className="  pb-10">
+    <div className="pb-10">
       {/* <SmallHeader /> */}
       <div className="text-white">
         <Header />
